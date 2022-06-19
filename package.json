@@ -1,0 +1,16 @@
+{
+  "name": "frixys",
+  "version": "1.0.3",
+  "description": "A Utility Package to make your simple tasks more simpler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "frixys",
+    "utils",
+    "utility"
+  ],
+  "author": "snehasish_xd",
+  "license": "ISC"
+}
